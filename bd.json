@@ -1,0 +1,124 @@
+{
+    "imgBnaer":[
+        imagemDoBaner,
+        imagemDoBaner,
+        imagemDoBaner,
+        imagemDoBaner
+    ],
+    imgDetalhesProdutos:[
+        sapatoAmarelo,
+        sapatoBege,
+        sapatoMarron,
+        sapatoRosa,
+        sapatoRoxo
+    ],
+    "produtos":[
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 200,
+          "priceDiscount": 149.9,
+          "categoria": "Tênis"
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 49.9,
+          "categoria": "Tênis"
+          
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 400,
+          "priceDiscount": 149.9,
+          'categoria': 'Tênis'
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 49.9,
+          "categoria": 'Tênis'
+          
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 49.9,
+          "categoria": 'Tênis'
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 125,
+          "priceDiscount": 35,
+          "categoria": 'Tênis'
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 193,
+          "priceDiscount": 85,
+          "categoria": 'Tênis'
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 49.9,
+          "categoria": 'Tênis'
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 49.9,
+          "categoria": 'Tênis'
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 149.9,
+          "priceDiscount": 49.9,
+          "categoria": 'Tênis'
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 49.9,
+          "categoria": 'Tênis'
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 50,
+          "priceDiscount": 25,
+          "categoria": 'Tênis'
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 49.9,
+          "categoria": 'Tênis'
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 205,
+          "priceDiscount": 149,
+          "categoria": 'Tênis'
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 49.9,
+          "categoria": 'Tênis'
+        },
+        {
+          "name": "Nome do produto",
+          "image": sapatoVenda,
+          "price": 49.9,
+          "categoria": 'Tênis'
+        },
+        
+        
+      ]
+}
